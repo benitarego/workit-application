@@ -1,1 +1,3 @@
-# workit-application
+# WorkIt Android
+
+Workout Android App
